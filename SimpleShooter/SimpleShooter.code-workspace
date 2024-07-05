@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "SimpleShooter",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "D:\\Epic Games\\UE_4.27"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"D:\\SourceTree\\UEThirdPersonShooter\\SimpleShooter\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\SimpleShooter\\Definitions.SimpleShooter.h",
+			"D:\\SourceTree\\UEThirdPersonShooter\\SimpleShooter\\Intermediate\\Build\\Win64\\SimpleShooterEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
