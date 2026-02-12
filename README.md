@@ -17,3 +17,5 @@ The game has all the fundamental features of this genre:
 - Shooting with left click and zooming with right click
 
 - Win condition when all enemies have been defeated
+
+![ShooterImage](https://github.com/user-attachments/assets/b21ce572-ff81-4fa4-97f9-499f871ec1a7)
